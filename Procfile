@@ -1,0 +1,1 @@
+web: gunicorn <question_analysis>.wsgi
